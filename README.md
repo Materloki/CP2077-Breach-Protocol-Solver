@@ -10,7 +10,7 @@ Inspired by some guys on [r/cyberpunkgame](https://www.reddit.com/r/cyberpunkgam
 
 ### Taking the Screen
 
-Thanks to [Sentdex and his awesome video about Cyberpunk] (https://www.youtube.com/watch?v=dUU6ZsJlZKQ&t=1003s&ab_channel=sentdex) I could use his source code to take screenshots from the game and read it with OpenCV.
+Thanks to [Sentdex and his awesome video about Cyberpunk](https://www.youtube.com/watch?v=dUU6ZsJlZKQ&t=1003s&ab_channel=sentdex) I could use his source code to take screenshots from the game and read it with OpenCV.
 
 With template matching you can recognize if the game is on the breach protocol screen, I used the NETTECH logo to check this:
 
